@@ -1,0 +1,11 @@
+# competition data (not ours to redistribute) and large intermediate files
+Dataset/
+work/
+output/
+*.parquet
+*.tsv
+*.zip
+
+# python
+__pycache__/
+*.pyc
